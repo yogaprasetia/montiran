@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Montirin-master/app/src/main/res/drawable/button.xml" value="0.1335" />
+        <entry key="..\:/Montirin-master/app/src/main/res/layout/activity_login.xml" value="0.1296875" />
+        <entry key="..\:/Montirin-master/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Montirin-master/app/src/main/res/layout/activity_splash.xml" value="0.1296875" />
+        <entry key="..\:/Montirin-master/app/src/main/res/layout/fragment_dashboard.xml" value="0.17074275362318841" />
+        <entry key="..\:/Montirin-master/app/src/main/res/layout/fragment_home.xml" value="0.17074275362318841" />
+        <entry key="..\:/Project/MontirinApp/app/src/main/res/layout/activity_login.xml" value="0.209375" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
